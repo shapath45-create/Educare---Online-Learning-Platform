@@ -1,0 +1,1 @@
+As a student I want to view material & schedule so that I can Study and prepare for classes.

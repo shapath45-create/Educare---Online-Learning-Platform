@@ -1,0 +1,1 @@
+As a student I want to search and enroll in courses so that I can join the classes I need
