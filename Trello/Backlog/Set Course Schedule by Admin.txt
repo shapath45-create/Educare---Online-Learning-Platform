@@ -1,0 +1,1 @@
+As an Admin I want to set course schedule so that I can define class timings and deadlines

@@ -1,0 +1,1 @@
+As an Admin I want to view all user activities so that I can monitor platform usage and logs
