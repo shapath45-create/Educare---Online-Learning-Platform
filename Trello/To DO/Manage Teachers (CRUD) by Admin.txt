@@ -1,0 +1,1 @@
+As an Admin I want to manage teachers so that I can add or remove faculty members
